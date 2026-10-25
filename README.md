@@ -1,6 +1,5 @@
-ITARS 2027 — Production website
+ITARS 2027 Website
 
-Upload the eight HTML files and assets directory to GitHub Pages. No build step required. Replace HTML, assets/css/style.css, assets/js/site.js and assets/js/translations.js together.
-
-Mobile: use the labelled Menu button. All pages support BM/EN.
-Submission page is informational; no files, payments or registrations are collected. Official upload links, payment details and session timetable await organiser confirmation.
+Six pages: Home, About, Speakers, Categories, Registration & Fees, Programme. Upload all production HTML files with assets. No build required.
+Keep all *-Preview.html files together for standalone offline previews.
+Registration links, payment instructions and detailed programme await organiser confirmation. Published fee rates and milestone dates follow supplied poster.
