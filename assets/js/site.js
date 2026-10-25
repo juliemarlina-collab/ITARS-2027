@@ -24,7 +24,7 @@ function setLanguage(lang) {
     if (entry) el.innerHTML = entry[language];
   });
   document.querySelectorAll('[data-lang]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.lang === language)));
-  menu.setAttribute('aria-label', language === 'bm' ? 'Buka menu' : 'Open menu');
+  menu.setAttribute('aria-label', language === 'bm' ? 'Buka menu navigasi' : 'Open navigation menu');
   dialog.querySelector('.dialog-close').setAttribute('aria-label', language === 'bm' ? 'Tutup dialog' : 'Close dialog');
   nav.setAttribute('aria-label', language === 'bm' ? 'Navigasi utama' : 'Main navigation');
   document.querySelector('.footer-inner nav').setAttribute('aria-label', language === 'bm' ? 'Navigasi footer' : 'Footer navigation');
@@ -45,7 +45,7 @@ if ('ResizeObserver' in window) { const observer = new ResizeObserver(measureBar
 /* This package contains the homepage only. Keep real future filenames, and use
    a clear notice until each standalone page is supplied. Remove its filename
    from pendingPages as soon as that file is added to the repository. */
-const pendingPages = new Set(['call-for-papers.html',]);
+const pendingPages = new Set();
 document.querySelectorAll('[data-page-link]').forEach(a => a.addEventListener('click', e => {
   const filename = a.getAttribute('href').split('#')[0];
   if (!pendingPages.has(filename)) return;

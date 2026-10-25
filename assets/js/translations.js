@@ -164,12 +164,12 @@ window.ITARS_TRANSLATIONS = {
     "bm": "Menghubungkan penyelidikan, amalan dan inovasi demi ekosistem TVET yang lebih kukuh dan berdaya tahan."
   },
   "submit": {
-    "en": "Submit Abstract",
-    "bm": "Hantar Abstrak"
+    "en": "Submission information",
+    "bm": "Maklumat penghantaran"
   },
   "guide": {
-    "en": "View Guidelines",
-    "bm": "Lihat Panduan"
+    "en": "Author guidance",
+    "bm": "Panduan penulis"
   },
   "countheading": {
     "en": "COUNTDOWN TO ITARS 2027",
@@ -300,8 +300,8 @@ window.ITARS_TRANSLATIONS = {
     "bm": "8 April 2027 · Simposium Dalam Talian"
   },
   "ctasubmit": {
-    "en": "Submit Abstract",
-    "bm": "Hantar Abstrak"
+    "en": "Submission information",
+    "bm": "Maklumat penghantaran"
   },
   "ctareg": {
     "en": "Registration & Fees",
@@ -336,8 +336,8 @@ window.ITARS_TRANSLATIONS = {
     "bm": "Halaman ini sedang disediakan"
   },
   "dialogcopy": {
-    "en": "This first release contains the homepage. The selected section will have its own dedicated page. For event information, view the supplied poster or call the organisers.",
-    "bm": "Versi pertama ini mengandungi halaman utama. Bahagian yang dipilih akan mempunyai halaman tersendiri. Untuk maklumat acara, lihat poster yang dibekalkan atau hubungi penganjur."
+    "en": "The requested resource is awaiting organiser confirmation. Please contact the team for assistance.",
+    "bm": "Maklumat yang diminta menunggu pengesahan penganjur. Sila hubungi pasukan untuk bantuan."
   },
   "viewposter": {
     "en": "View event poster",
@@ -938,5 +938,53 @@ window.ITARS_TRANSLATIONS = {
   "profileoverviewcopy": {
     "en": "Select a name to jump to their background and research expertise.",
     "bm": "Pilih nama untuk melihat latar belakang dan kepakaran penyelidikan."
+  },
+  "menutext": {
+    "en": "Menu",
+    "bm": "Menu"
+  },
+  "submissionlabel": {
+    "en": "Submission information",
+    "bm": "Maklumat penghantaran"
+  },
+  "submissionhero": {
+    "en": "Prepare your research for ITARS.",
+    "bm": "Sediakan penyelidikan anda untuk ITARS."
+  },
+  "submissionlead": {
+    "en": "Review the published submission dates and prepare for the official author instructions.",
+    "bm": "Semak tarikh penghantaran yang diterbitkan dan bersedia untuk panduan rasmi penulis."
+  },
+  "submissionstatus": {
+    "en": "Submission portal awaiting confirmation",
+    "bm": "Portal penghantaran menunggu pengesahan"
+  },
+  "submissioncopy": {
+    "en": "The official upload link, abstract format, manuscript template and review instructions have not yet been provided. No submission is collected on this website at present.",
+    "bm": "Pautan muat naik rasmi, format abstrak, template manuskrip dan arahan penilaian belum diberikan. Website ini belum menerima penghantaran pada masa ini."
+  },
+  "submissionprepare": {
+    "en": "What you can prepare now",
+    "bm": "Persediaan yang boleh dibuat sekarang"
+  },
+  "submissionpreparecopy": {
+    "en": "Identify your research category, prepare your author and institution details, and note the deadlines below. Use the organiser-approved template once it becomes available.",
+    "bm": "Kenal pasti kategori penyelidikan, sediakan maklumat penulis dan institusi, serta catat tarikh akhir di bawah. Gunakan template yang diluluskan penganjur apabila tersedia."
+  },
+  "submissioncontact": {
+    "en": "Need submission guidance?",
+    "bm": "Perlukan panduan penghantaran?"
+  },
+  "submissioncontactcopy": {
+    "en": "Contact the organisers before sending a manuscript or making payment.",
+    "bm": "Hubungi penganjur sebelum menghantar manuskrip atau membuat pembayaran."
+  },
+  "progdateslabel": {
+    "en": "Submission milestones",
+    "bm": "Tarikh penting penghantaran"
+  },
+  "regpendingbutton": {
+    "en": "Registration information",
+    "bm": "Maklumat pendaftaran"
   }
 };
