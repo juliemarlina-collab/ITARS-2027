@@ -252,8 +252,8 @@ window.ITARS_TRANSLATIONS = {
     "bm": "Terokai bidang penyelidikan kami"
   },
   "alltopics": {
-    "en": "View submission details",
-    "bm": "Lihat maklumat penghantaran"
+    "en": "Explore all categories",
+    "bm": "Terokai semua kategori"
   },
   "field0": {
     "en": "Engineering & Technology",
@@ -416,12 +416,12 @@ window.ITARS_TRANSLATIONS = {
     "bm": "YURAN PENDAFTARAN"
   },
   "presenter": {
-    "en": "PRESENTER",
-    "bm": "PEMBENTANG"
+    "en": "Presenter",
+    "bm": "Pembentang"
   },
   "participant": {
-    "en": "PARTICIPANT",
-    "bm": "PESERTA"
+    "en": "Participant",
+    "bm": "Peserta"
   },
   "local": {
     "en": "Local",
@@ -452,8 +452,8 @@ window.ITARS_TRANSLATIONS = {
     "bm": "HUBUNGI KAMI"
   },
   "technical": {
-    "en": "Technical",
-    "bm": "Teknikal"
+    "en": "Technical enquiries",
+    "bm": "Pertanyaan teknikal"
   },
   "website": {
     "en": "Official website",
@@ -702,5 +702,241 @@ window.ITARS_TRANSLATIONS = {
   "cat7topics": {
     "en": "Community development · Communication · Workplace studies",
     "bm": "Pembangunan komuniti · Komunikasi · Kajian tempat kerja"
+  },
+  "feehero": {
+    "en": "Plan your participation.",
+    "bm": "Rancang penyertaan anda."
+  },
+  "feelead": {
+    "en": "Choose your participation type and review the published fees for ITARS 2027.",
+    "bm": "Pilih jenis penyertaan dan semak kadar yuran ITARS 2027."
+  },
+  "feetitle": {
+    "en": "Registration & Fees",
+    "bm": "Pendaftaran & Yuran"
+  },
+  "presentercopy": {
+    "en": "For authors presenting research at the symposium.",
+    "bm": "Untuk penulis yang membentangkan penyelidikan dalam simposium."
+  },
+  "participantcopy": {
+    "en": "For attendees joining without a paper presentation.",
+    "bm": "Untuk peserta yang menyertai tanpa pembentangan kertas kerja."
+  },
+  "international": {
+    "en": "International",
+    "bm": "Antarabangsa"
+  },
+  "secondpaper": {
+    "en": "Second paper",
+    "bm": "Kertas kedua"
+  },
+  "student": {
+    "en": "PolyCC student",
+    "bm": "Pelajar PolyCC"
+  },
+  "feestudentnote": {
+    "en": "The poster lists one PolyCC student rate. Eligibility and any additional-paper rate should be confirmed with the organisers.",
+    "bm": "Poster menyenaraikan satu kadar untuk pelajar PolyCC. Kelayakan dan kadar kertas tambahan perlu disahkan dengan penganjur."
+  },
+  "feeposternote": {
+    "en": "Fees shown are those published in the ITARS 2027 poster. RM and USD rates apply to the stated categories; no currency conversion is used.",
+    "bm": "Kadar di atas berdasarkan poster ITARS 2027. Kadar RM dan USD mengikut kategori yang dinyatakan; tiada penukaran mata wang digunakan."
+  },
+  "feehow": {
+    "en": "Before you register",
+    "bm": "Sebelum mendaftar"
+  },
+  "feehowcopy": {
+    "en": "Prepare your participation details. The official registration form and payment instructions will be added after organiser confirmation.",
+    "bm": "Sediakan maklumat penyertaan anda. Borang pendaftaran rasmi dan arahan pembayaran akan ditambah selepas pengesahan penganjur."
+  },
+  "feestep1": {
+    "en": "Choose your category",
+    "bm": "Pilih kategori anda"
+  },
+  "feestep1copy": {
+    "en": "Presenter or participant; local, international or PolyCC student where applicable.",
+    "bm": "Pembentang atau peserta; tempatan, antarabangsa atau pelajar PolyCC mengikut kesesuaian."
+  },
+  "feestep2": {
+    "en": "Prepare your details",
+    "bm": "Sediakan maklumat anda"
+  },
+  "feestep2copy": {
+    "en": "Have your name, institution and contact details ready. Presenters should also prepare their paper information.",
+    "bm": "Sediakan nama, institusi dan maklumat hubungan. Pembentang juga perlu menyediakan maklumat kertas kajian."
+  },
+  "feestep3": {
+    "en": "Follow official instructions",
+    "bm": "Ikuti arahan rasmi"
+  },
+  "feestep3copy": {
+    "en": "Wait for the confirmed registration link and payment guidance from the organisers.",
+    "bm": "Gunakan pautan pendaftaran dan panduan pembayaran yang disahkan oleh penganjur."
+  },
+  "feepending": {
+    "en": "Registration form and payment details: awaiting confirmation.",
+    "bm": "Borang pendaftaran dan butiran pembayaran: menunggu pengesahan."
+  },
+  "askfees": {
+    "en": "Enquire about registration",
+    "bm": "Pertanyaan pendaftaran"
+  },
+  "contactrozila": {
+    "en": "Tuan Rozila · Technical enquiries",
+    "bm": "Tuan Rozila · Pertanyaan teknikal"
+  },
+  "contactkhair": {
+    "en": "Dr. Khairunnisa · Technical enquiries",
+    "bm": "Dr. Khairunnisa · Pertanyaan teknikal"
+  },
+  "proghero": {
+    "en": "A day for ideas and exchange.",
+    "bm": "Sehari untuk ilmu dan pertukaran idea."
+  },
+  "proglead": {
+    "en": "Join ITARS 2027 online on 8 April 2027. The detailed programme will be published after organiser confirmation.",
+    "bm": "Sertai ITARS 2027 secara dalam talian pada 8 April 2027. Atur cara terperinci akan diterbitkan selepas pengesahan penganjur."
+  },
+  "progdate": {
+    "en": "8 April 2027",
+    "bm": "8 April 2027"
+  },
+  "progday": {
+    "en": "Thursday",
+    "bm": "Khamis"
+  },
+  "progonline": {
+    "en": "Fully online",
+    "bm": "Sepenuhnya dalam talian"
+  },
+  "progtimezone": {
+    "en": "Malaysia time · MYT (UTC+8)",
+    "bm": "Waktu Malaysia · MYT (UTC+8)"
+  },
+  "progstatus": {
+    "en": "Detailed schedule coming soon",
+    "bm": "Jadual terperinci akan diumumkan"
+  },
+  "progstatuscopy": {
+    "en": "Session times, presentation slots and access links are not yet confirmed. Please check this page for the official programme before the event.",
+    "bm": "Waktu sesi, slot pembentangan dan pautan akses belum disahkan. Sila semak halaman ini untuk mendapatkan atur cara rasmi sebelum acara berlangsung."
+  },
+  "progexpect": {
+    "en": "Explore the symposium",
+    "bm": "Kenali pengisian simposium"
+  },
+  "progexpectcopy": {
+    "en": "Discover the confirmed speaker line-up and research categories while the detailed timetable is being prepared.",
+    "bm": "Kenali barisan penceramah dan kategori penyelidikan sementara jadual terperinci disediakan."
+  },
+  "progkeynote": {
+    "en": "Keynote speakers",
+    "bm": "Penceramah utama"
+  },
+  "progkeynotecopy": {
+    "en": "Meet the five academics listed in the symposium poster.",
+    "bm": "Kenali lima ahli akademik yang disenaraikan dalam poster simposium."
+  },
+  "progpresent": {
+    "en": "Research presentations",
+    "bm": "Pembentangan penyelidikan"
+  },
+  "progpresentcopy": {
+    "en": "Explore seven research categories for online paper presentations. Individual slots will be announced separately.",
+    "bm": "Terokai tujuh kategori penyelidikan untuk pembentangan kertas kerja dalam talian. Slot individu akan diumumkan secara berasingan."
+  },
+  "progprepare": {
+    "en": "Get ready to join online",
+    "bm": "Persediaan penyertaan dalam talian"
+  },
+  "progpreparecopy": {
+    "en": "Check your connection, microphone and camera beforehand. Presentation duration, platform requirements and joining instructions will follow the official programme.",
+    "bm": "Semak sambungan internet, mikrofon dan kamera lebih awal. Tempoh pembentangan, keperluan platform dan arahan penyertaan akan mengikut atur cara rasmi."
+  },
+  "progmilestones": {
+    "en": "Submission and event milestones",
+    "bm": "Tarikh penting penghantaran dan acara"
+  },
+  "progquestions": {
+    "en": "Questions about the programme?",
+    "bm": "Pertanyaan tentang atur cara?"
+  },
+  "progquestionscopy": {
+    "en": "Contact the listed technical contacts for assistance.",
+    "bm": "Hubungi pegawai teknikal yang disenaraikan untuk bantuan."
+  },
+  "contacthero": {
+    "en": "Let’s keep you connected.",
+    "bm": "Kami sedia membantu anda."
+  },
+  "contactlead": {
+    "en": "Need help with ITARS 2027? Reach the listed technical contacts for guidance on participation and event information.",
+    "bm": "Perlukan bantuan tentang ITARS 2027? Hubungi pegawai teknikal yang disenaraikan untuk panduan penyertaan dan maklumat acara."
+  },
+  "contacttitle": {
+    "en": "Speak to our team",
+    "bm": "Hubungi pasukan kami"
+  },
+  "contactintro": {
+    "en": "Choose a contact below to make a phone call.",
+    "bm": "Pilih pegawai di bawah untuk membuat panggilan telefon."
+  },
+  "callnow": {
+    "en": "Call now",
+    "bm": "Hubungi sekarang"
+  },
+  "contactprepare": {
+    "en": "Help us assist you faster",
+    "bm": "Bantu kami membantu anda"
+  },
+  "contactpreparecopy": {
+    "en": "When contacting the team, have your name, institution and enquiry ready. If you are a presenter, include your paper title or submission reference where available.",
+    "bm": "Sediakan nama, institusi dan pertanyaan anda semasa menghubungi pasukan. Jika anda pembentang, sertakan tajuk kertas atau nombor rujukan penghantaran jika ada."
+  },
+  "contactroutes": {
+    "en": "Find the right information",
+    "bm": "Cari maklumat yang anda perlukan"
+  },
+  "contactfee": {
+    "en": "Fees & registration",
+    "bm": "Yuran & pendaftaran"
+  },
+  "contactfeecopy": {
+    "en": "Review presenter and participant rates before enquiring.",
+    "bm": "Semak kadar pembentang dan peserta sebelum membuat pertanyaan."
+  },
+  "contactcat": {
+    "en": "Research categories",
+    "bm": "Kategori penyelidikan"
+  },
+  "contactcatcopy": {
+    "en": "Explore the seven fields and find the closest fit for your research.",
+    "bm": "Terokai tujuh bidang dan pilih kategori yang paling sesuai dengan kajian anda."
+  },
+  "contactprog": {
+    "en": "Programme & sessions",
+    "bm": "Atur cara & sesi"
+  },
+  "contactprogcopy": {
+    "en": "Check the programme status and event information.",
+    "bm": "Semak status atur cara dan maklumat acara."
+  },
+  "contactnote": {
+    "en": "The poster lists phone contacts for technical enquiries. An official email address, office hours and event access links have not yet been provided.",
+    "bm": "Poster menyenaraikan nombor telefon untuk pertanyaan teknikal. Alamat e-mel rasmi, waktu operasi dan pautan akses acara belum diberikan."
+  },
+  "contactonline": {
+    "en": "Online symposium · 8 April 2027",
+    "bm": "Simposium dalam talian · 8 April 2027"
+  },
+  "profileoverview": {
+    "en": "Explore the speaker profiles",
+    "bm": "Terokai profil penceramah"
+  },
+  "profileoverviewcopy": {
+    "en": "Select a name to jump to their background and research expertise.",
+    "bm": "Pilih nama untuk melihat latar belakang dan kepakaran penyelidikan."
   }
 };

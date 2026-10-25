@@ -45,7 +45,7 @@ if ('ResizeObserver' in window) { const observer = new ResizeObserver(measureBar
 /* This package contains the homepage only. Keep real future filenames, and use
    a clear notice until each standalone page is supplied. Remove its filename
    from pendingPages as soon as that file is added to the repository. */
-const pendingPages = new Set(['call-for-papers.html','registration.html','programme.html','contact.html']);
+const pendingPages = new Set(['call-for-papers.html',]);
 document.querySelectorAll('[data-page-link]').forEach(a => a.addEventListener('click', e => {
   const filename = a.getAttribute('href').split('#')[0];
   if (!pendingPages.has(filename)) return;
