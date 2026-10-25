@@ -1,6 +1,6 @@
-ITARS 2027
+ITARS 2027 — Production website
 
-Hosting: upload index.html, about.html and assets together. No build needed.
-Standalone preview: Home-Preview.html and About-Preview.html must stay together for navigation.
-Other dedicated pages are still being prepared and show a notice.
-Countdown targets start of 8 April 2027 in Malaysia, not a confirmed session time.
+Upload the eight HTML files and assets directory to GitHub Pages. No build step required. Replace HTML, assets/css/style.css, assets/js/site.js and assets/js/translations.js together.
+
+Mobile: use the labelled Menu button. All pages support BM/EN.
+Submission page is informational; no files, payments or registrations are collected. Official upload links, payment details and session timetable await organiser confirmation.
