@@ -1,33 +1,120 @@
 window.ITARS_TRANSLATIONS = {
- "speakersintro":{"en":"Meet the academics sharing perspectives on TVET, research and innovation.","bm":"Kenali ahli akademik yang berkongsi perspektif tentang TVET, penyelidikan dan inovasi."},
- "datesintro":{"en":"Plan your submission journey, from abstract to presentation and proceedings.","bm":"Rancang perjalanan penyertaan anda, daripada penghantaran abstrak hingga pembentangan dan prosiding."},
- "fieldsintro":{"en":"Discover seven research fields connecting technology, education, business and society.","bm":"Terokai tujuh bidang penyelidikan yang menghubungkan teknologi, pendidikan, perniagaan dan masyarakat."},
- "organiserintro":{"en":"Brought together through a shared commitment to research and academic collaboration.","bm":"Bersama menjayakan perkongsian penyelidikan dan kerjasama akademik."},
- "welcomelabel":{"en":"WELCOME TO ITARS 2027","bm":"SELAMAT DATANG KE ITARS 2027"},
- "welcometitle":{"en":"A meeting of minds. A future shaped together.","bm":"Pertemuan ilmu. Membina masa depan bersama."},
- "welcomecopy":{"en":"The sixth International TVET Academic and Research Symposium brings educators, researchers, students and industry practitioners together to exchange ideas and share research with practical value.","bm":"Simposium Akademik dan Penyelidikan TVET Antarabangsa Ke-6 menghimpunkan pendidik, penyelidik, pelajar dan pengamal industri untuk bertukar idea serta berkongsi penyelidikan yang memberi manfaat kepada amalan sebenar."},
- "welcomecopy2":{"en":"Organised by PUSPANITA JPPKK and MTDA, ITARS 2027 celebrates excellence in TVET and entrepreneurship through multidisciplinary dialogue, innovation and collaboration towards a sustainable and inclusive future.","bm":"Anjuran PUSPANITA JPPKK dan MTDA, ITARS 2027 mengangkat kecemerlangan TVET dan keusahawanan melalui dialog merentas disiplin, inovasi serta kerjasama ke arah masa depan yang mampan dan inklusif."},
- "welcomeclosing":{"en":"Bring your ideas. Share your findings. Build new connections.","bm":"Bawa idea anda. Kongsi dapatan. Bina jaringan baharu."},
- "abhistory":{"en":"Building on a shared research tradition","bm":"Meneruskan tradisi perkongsian penyelidikan"},
- "abhistorycopy":{"en":"ITARS has brought lecturers, academics and researchers together to share knowledge across engineering, technology and the social sciences. The 2025 symposium marked its fourth edition, with an emphasis on real-world challenges and innovative solutions. ITARS 2027 continues this spirit of exchange and collaboration as the sixth edition.","bm":"ITARS menghimpunkan pensyarah, ahli akademik dan penyelidik untuk berkongsi ilmu merentas bidang kejuruteraan, teknologi dan sains sosial. Simposium 2025 merupakan edisi keempat dengan penekanan kepada cabaran sebenar dan penyelesaian inovatif. ITARS 2027 meneruskan semangat pertukaran ilmu dan kerjasama ini sebagai edisi keenam."},
- "historysource":{"en":"Explore ITARS 2025 →","bm":"Kenali ITARS 2025 →"},
- "navhome":{"en":"Home","bm":"Utama"},
- "abtitle":{"en":"Research. Practice. Shared progress.","bm":"Penyelidikan. Amalan. Kemajuan bersama."},
- "ablead":{"en":"An international meeting point for TVET educators, researchers, students and industry practitioners.","bm":"Wadah pertemuan antarabangsa untuk pendidik TVET, penyelidik, pelajar dan pengamal industri."},
- "abtheme":{"en":"Excellence in TVET and Entrepreneurship","bm":"Kecemerlangan TVET dan Keusahawanan"},
- "abpurpose":{"en":"A space for ideas to become impact.","bm":"Ruang untuk idea menjadi impak."},
- "abpurposecopy":{"en":"ITARS 2027 connects research findings with educational practice, TVET innovation and entrepreneurship. The symposium encourages knowledge sharing and collaboration towards a sustainable and inclusive future.","bm":"ITARS 2027 menghubungkan dapatan penyelidikan dengan amalan pendidikan, inovasi TVET dan keusahawanan. Simposium ini menggalakkan perkongsian ilmu dan kerjasama ke arah masa depan yang mampan dan inklusif."},
- "ab1":{"en":"Share research","bm":"Kongsi penyelidikan"},
- "ab1c":{"en":"Present findings and exchange perspectives across disciplines.","bm":"Bentangkan dapatan dan bertukar pandangan merentas disiplin."},
- "ab2":{"en":"Connect with peers","bm":"Bina jaringan"},
- "ab2c":{"en":"Meet educators, researchers, students and industry practitioners.","bm":"Temui pendidik, penyelidik, pelajar dan pengamal industri."},
- "ab3":{"en":"Advance TVET","bm":"Majukan TVET"},
- "ab3c":{"en":"Explore innovation and entrepreneurship for an inclusive future.","bm":"Terokai inovasi dan keusahawanan untuk masa depan yang inklusif."},
- "abformat":{"en":"One symposium. Join from anywhere.","bm":"Satu simposium. Sertai dari mana-mana."},
- "abformatcopy":{"en":"8 April 2027 · Fully online. The detailed programme and session times will be announced separately.","bm":"8 April 2027 · Sepenuhnya dalam talian. Atur cara terperinci dan waktu sesi akan diumumkan kemudian."},
- "speakerhint":{"en":"Swipe to meet our keynote speakers →","bm":"Leret untuk mengenali penceramah utama →"},
- "ctakicker":{"en":"JOIN ITARS 2027","bm":"SERTAI ITARS 2027"},
- "ctaheadline":{"en":"Together, shaping the future of TVET.","bm":"Bersama memacu masa depan TVET."},
+  "speakersintro": {
+    "en": "Meet the academics sharing perspectives on TVET, research and innovation.",
+    "bm": "Kenali ahli akademik yang berkongsi perspektif tentang TVET, penyelidikan dan inovasi."
+  },
+  "datesintro": {
+    "en": "Plan your submission journey, from abstract to presentation and proceedings.",
+    "bm": "Rancang perjalanan penyertaan anda, daripada penghantaran abstrak hingga pembentangan dan prosiding."
+  },
+  "fieldsintro": {
+    "en": "Discover seven research fields connecting technology, education, business and society.",
+    "bm": "Terokai tujuh bidang penyelidikan yang menghubungkan teknologi, pendidikan, perniagaan dan masyarakat."
+  },
+  "organiserintro": {
+    "en": "Brought together through a shared commitment to research and academic collaboration.",
+    "bm": "Bersama menjayakan perkongsian penyelidikan dan kerjasama akademik."
+  },
+  "welcomelabel": {
+    "en": "WELCOME TO ITARS 2027",
+    "bm": "SELAMAT DATANG KE ITARS 2027"
+  },
+  "welcometitle": {
+    "en": "A meeting of minds. A future shaped together.",
+    "bm": "Pertemuan ilmu. Membina masa depan bersama."
+  },
+  "welcomecopy": {
+    "en": "The sixth International TVET Academic and Research Symposium brings educators, researchers, students and industry practitioners together to exchange ideas and share research with practical value.",
+    "bm": "Simposium Akademik dan Penyelidikan TVET Antarabangsa Ke-6 menghimpunkan pendidik, penyelidik, pelajar dan pengamal industri untuk bertukar idea serta berkongsi penyelidikan yang memberi manfaat kepada amalan sebenar."
+  },
+  "welcomecopy2": {
+    "en": "Organised by PUSPANITA JPPKK and MTDA, ITARS 2027 celebrates excellence in TVET and entrepreneurship through multidisciplinary dialogue, innovation and collaboration towards a sustainable and inclusive future.",
+    "bm": "Anjuran PUSPANITA JPPKK dan MTDA, ITARS 2027 mengangkat kecemerlangan TVET dan keusahawanan melalui dialog merentas disiplin, inovasi serta kerjasama ke arah masa depan yang mampan dan inklusif."
+  },
+  "welcomeclosing": {
+    "en": "Bring your ideas. Share your findings. Build new connections.",
+    "bm": "Bawa idea anda. Kongsi dapatan. Bina jaringan baharu."
+  },
+  "abhistory": {
+    "en": "Building on a shared research tradition",
+    "bm": "Meneruskan tradisi perkongsian penyelidikan"
+  },
+  "abhistorycopy": {
+    "en": "ITARS has brought lecturers, academics and researchers together to share knowledge across engineering, technology and the social sciences. The 2025 symposium marked its fourth edition, with an emphasis on real-world challenges and innovative solutions. ITARS 2027 continues this spirit of exchange and collaboration as the sixth edition.",
+    "bm": "ITARS menghimpunkan pensyarah, ahli akademik dan penyelidik untuk berkongsi ilmu merentas bidang kejuruteraan, teknologi dan sains sosial. Simposium 2025 merupakan edisi keempat dengan penekanan kepada cabaran sebenar dan penyelesaian inovatif. ITARS 2027 meneruskan semangat pertukaran ilmu dan kerjasama ini sebagai edisi keenam."
+  },
+  "historysource": {
+    "en": "Explore ITARS 2025 →",
+    "bm": "Kenali ITARS 2025 →"
+  },
+  "navhome": {
+    "en": "Home",
+    "bm": "Utama"
+  },
+  "abtitle": {
+    "en": "Research. Practice. Shared progress.",
+    "bm": "Penyelidikan. Amalan. Kemajuan bersama."
+  },
+  "ablead": {
+    "en": "An international meeting point for TVET educators, researchers, students and industry practitioners.",
+    "bm": "Wadah pertemuan antarabangsa untuk pendidik TVET, penyelidik, pelajar dan pengamal industri."
+  },
+  "abtheme": {
+    "en": "Excellence in TVET and Entrepreneurship",
+    "bm": "Kecemerlangan TVET dan Keusahawanan"
+  },
+  "abpurpose": {
+    "en": "A space for ideas to become impact.",
+    "bm": "Ruang untuk idea menjadi impak."
+  },
+  "abpurposecopy": {
+    "en": "ITARS 2027 connects research findings with educational practice, TVET innovation and entrepreneurship. The symposium encourages knowledge sharing and collaboration towards a sustainable and inclusive future.",
+    "bm": "ITARS 2027 menghubungkan dapatan penyelidikan dengan amalan pendidikan, inovasi TVET dan keusahawanan. Simposium ini menggalakkan perkongsian ilmu dan kerjasama ke arah masa depan yang mampan dan inklusif."
+  },
+  "ab1": {
+    "en": "Share research",
+    "bm": "Kongsi penyelidikan"
+  },
+  "ab1c": {
+    "en": "Present findings and exchange perspectives across disciplines.",
+    "bm": "Bentangkan dapatan dan bertukar pandangan merentas disiplin."
+  },
+  "ab2": {
+    "en": "Connect with peers",
+    "bm": "Bina jaringan"
+  },
+  "ab2c": {
+    "en": "Meet educators, researchers, students and industry practitioners.",
+    "bm": "Temui pendidik, penyelidik, pelajar dan pengamal industri."
+  },
+  "ab3": {
+    "en": "Advance TVET",
+    "bm": "Majukan TVET"
+  },
+  "ab3c": {
+    "en": "Explore innovation and entrepreneurship for an inclusive future.",
+    "bm": "Terokai inovasi dan keusahawanan untuk masa depan yang inklusif."
+  },
+  "abformat": {
+    "en": "One symposium. Join from anywhere.",
+    "bm": "Satu simposium. Sertai dari mana-mana."
+  },
+  "abformatcopy": {
+    "en": "8 April 2027 · Fully online. The detailed programme and session times will be announced separately.",
+    "bm": "8 April 2027 · Sepenuhnya dalam talian. Atur cara terperinci dan waktu sesi akan diumumkan kemudian."
+  },
+  "speakerhint": {
+    "en": "Swipe to meet our keynote speakers →",
+    "bm": "Leret untuk mengenali penceramah utama →"
+  },
+  "ctakicker": {
+    "en": "JOIN ITARS 2027",
+    "bm": "SERTAI ITARS 2027"
+  },
+  "ctaheadline": {
+    "en": "Together, shaping the future of TVET.",
+    "bm": "Bersama memacu masa depan TVET."
+  },
   "navabout": {
     "en": "About",
     "bm": "Tentang"
@@ -371,5 +458,69 @@ window.ITARS_TRANSLATIONS = {
   "website": {
     "en": "Official website",
     "bm": "Laman web rasmi"
+  },
+  "spheadline": {
+    "en": "Ideas shaped by expertise.",
+    "bm": "Idea dipacu kepakaran."
+  },
+  "splead": {
+    "en": "Meet the five keynote speakers bringing perspectives from materials, engineering, biotechnology and environmental research.",
+    "bm": "Kenali lima penceramah utama yang membawa perspektif daripada penyelidikan bahan, kejuruteraan, bioteknologi dan alam sekitar."
+  },
+  "spintro": {
+    "en": "Discover their research interests and academic backgrounds.",
+    "bm": "Terokai bidang penyelidikan dan latar belakang akademik mereka."
+  },
+  "spofficial": {
+    "en": "Official university profile",
+    "bm": "Profil universiti rasmi"
+  },
+  "spexpertise": {
+    "en": "Research expertise",
+    "bm": "Kepakaran penyelidikan"
+  },
+  "spnote": {
+    "en": "Keynote titles and session details will be announced by the organisers. These profiles summarise public university information; expertise areas are not confirmed talk topics.",
+    "bm": "Tajuk ucaptama dan butiran sesi akan diumumkan oleh penganjur. Profil ini merumuskan maklumat universiti yang tersedia kepada umum; bidang kepakaran bukan tajuk pembentangan yang disahkan."
+  },
+  "spbio1": {
+    "en": "Nicole Hondow studies how advanced materials behave in complex environments. Her work uses analytical electron microscopy to investigate nanomaterials relevant to medicine, catalysis, energy and the environment. She was promoted to Professor at Leeds in April 2026.",
+    "bm": "Nicole Hondow mengkaji tingkah laku bahan termaju dalam persekitaran kompleks. Penyelidikannya menggunakan mikroskopi elektron analitikal untuk meneliti bahan nano yang berkaitan dengan perubatan, pemangkinan, tenaga dan alam sekitar. Beliau dilantik sebagai Profesor di Leeds pada April 2026."
+  },
+  "sptags1": {
+    "en": "Materials characterisation · Electron microscopy · Nanoparticles",
+    "bm": "Pencirian bahan · Mikroskopi elektron · Nanozarah"
+  },
+  "spbio2": {
+    "en": "Kongkiti Phusavat is a professor in Industrial Engineering at Kasetsart University. His university identifies systems engineering and performance measurement as his areas of expertise.",
+    "bm": "Kongkiti Phusavat merupakan profesor dalam bidang Kejuruteraan Industri di Kasetsart University. Profil universitinya menyenaraikan kejuruteraan sistem dan pengukuran prestasi sebagai bidang kepakaran beliau."
+  },
+  "sptags2": {
+    "en": "Systems engineering · Performance measurement",
+    "bm": "Kejuruteraan sistem · Pengukuran prestasi"
+  },
+  "spbio3": {
+    "en": "Arkadiusz Przybysz researches the relationships between plants and environmental quality. Based at the SGGW Centre for Climate Research, his expertise includes air pollution, phytoremediation, ecosystem services, urban greenery and plant physiology.",
+    "bm": "Arkadiusz Przybysz mengkaji hubungan antara tumbuhan dengan kualiti alam sekitar. Berkhidmat di Pusat Penyelidikan Iklim SGGW, kepakaran beliau merangkumi pencemaran udara, fitoremediasi, perkhidmatan ekosistem, kehijauan bandar dan fisiologi tumbuhan."
+  },
+  "sptags3": {
+    "en": "Phytoremediation · Air pollution · Urban greenery",
+    "bm": "Fitoremediasi · Pencemaran udara · Kehijauan bandar"
+  },
+  "spbio4": {
+    "en": "Dzun Noraini Jimat is an Associate Professor at IIUM’s Kulliyyah of Engineering. Her research interests include microbial fermentation, cell immobilisation, nanofibre synthesis and characterisation, and bioprocess design and optimisation. She holds a PhD from Newcastle University.",
+    "bm": "Dzun Noraini Jimat merupakan Profesor Madya di Kulliyyah Kejuruteraan IIUM. Minat penyelidikan beliau merangkumi fermentasi mikrob, imobilisasi sel, sintesis dan pencirian nanoserat, serta reka bentuk dan pengoptimuman bioproses. Beliau memperoleh PhD dari Newcastle University."
+  },
+  "sptags4": {
+    "en": "Microbial fermentation · Nanofibres · Bioprocess optimisation",
+    "bm": "Fermentasi mikrob · Nanoserat · Pengoptimuman bioproses"
+  },
+  "spbio5": {
+    "en": "Elmi bin Abu Bakar is an Associate Professor at USM’s School of Aerospace Engineering. His expertise spans machine vision, instrumentation and control, robotics and manufacturing inspection. His research includes non-destructive evaluation, image-based monitoring and industrial process improvement.",
+    "bm": "Elmi bin Abu Bakar merupakan Profesor Madya di Pusat Pengajian Kejuruteraan Aeroangkasa USM. Kepakaran beliau meliputi penglihatan mesin, instrumentasi dan kawalan, robotik serta pemeriksaan pembuatan. Penyelidikannya merangkumi penilaian tanpa musnah, pemantauan berasaskan imej dan penambahbaikan proses industri."
+  },
+  "sptags5": {
+    "en": "Machine vision · Non-destructive testing · Manufacturing inspection",
+    "bm": "Penglihatan mesin · Ujian tanpa musnah · Pemeriksaan pembuatan"
   }
 };
