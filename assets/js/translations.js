@@ -124,8 +124,8 @@ window.ITARS_TRANSLATIONS = {
     "bm": "Penceramah"
   },
   "navpapers": {
-    "en": "Papers",
-    "bm": "Kertas Kerja"
+    "en": "Categories",
+    "bm": "Kategori"
   },
   "navfees": {
     "en": "Fees",
@@ -522,5 +522,185 @@ window.ITARS_TRANSLATIONS = {
   "sptags5": {
     "en": "Machine vision · Non-destructive testing · Manufacturing inspection",
     "bm": "Penglihatan mesin · Ujian tanpa musnah · Pemeriksaan pembuatan"
+  },
+  "sprole1": {
+    "en": "Professor of Materials Characterisation",
+    "bm": "Profesor Pencirian Bahan"
+  },
+  "spname1": {
+    "en": "Professor Nicole Hondow",
+    "bm": "Profesor Nicole Hondow"
+  },
+  "sprole2": {
+    "en": "Professor, Industrial Engineering",
+    "bm": "Profesor Kejuruteraan Industri"
+  },
+  "spname2": {
+    "en": "Professor Dr Kongkiti Phusavat",
+    "bm": "Profesor Dr Kongkiti Phusavat"
+  },
+  "sprole3": {
+    "en": "Centre for Climate Research",
+    "bm": "Pusat Penyelidikan Iklim"
+  },
+  "spname3": {
+    "en": "Dr hab. Arkadiusz Przybysz, Prof. SGGW",
+    "bm": "Dr hab. Arkadiusz Przybysz, Prof. SGGW"
+  },
+  "sprole4": {
+    "en": "Kulliyyah of Engineering",
+    "bm": "Kulliyyah Kejuruteraan"
+  },
+  "spname4": {
+    "en": "Associate Professor Dr Dzun Noraini Jimat",
+    "bm": "Profesor Madya Dr Dzun Noraini Jimat"
+  },
+  "sprole5": {
+    "en": "School of Aerospace Engineering",
+    "bm": "Pusat Pengajian Kejuruteraan Aeroangkasa"
+  },
+  "spname5": {
+    "en": "Associate Professor Dr Elmi bin Abu Bakar",
+    "bm": "Profesor Madya Dr Elmi bin Abu Bakar"
+  },
+  "countryUnitedKingdom": {
+    "en": "United Kingdom",
+    "bm": "United Kingdom"
+  },
+  "countryThailand": {
+    "en": "Thailand",
+    "bm": "Thailand"
+  },
+  "countryPoland": {
+    "en": "Poland",
+    "bm": "Poland"
+  },
+  "countryMalaysia": {
+    "en": "Malaysia",
+    "bm": "Malaysia"
+  },
+  "catheading": {
+    "en": "Find your research category.",
+    "bm": "Temui kategori penyelidikan anda."
+  },
+  "catlead": {
+    "en": "Explore the seven research fields listed for ITARS 2027 and identify where your work fits.",
+    "bm": "Terokai tujuh bidang penyelidikan ITARS 2027 dan kenal pasti kategori yang sesuai dengan kajian anda."
+  },
+  "catintro": {
+    "en": "Seven fields. Shared possibilities.",
+    "bm": "Tujuh bidang. Peluang bersama."
+  },
+  "catnote": {
+    "en": "The examples below help you identify a suitable category. They are illustrative topics, not additional official submission requirements.",
+    "bm": "Contoh di bawah membantu anda memilih kategori yang sesuai. Topik ini merupakan panduan ilustrasi, bukan syarat penghantaran rasmi tambahan."
+  },
+  "catexamples": {
+    "en": "Example research topics",
+    "bm": "Contoh topik penyelidikan"
+  },
+  "cathelp": {
+    "en": "Research across more than one field?",
+    "bm": "Kajian merentas lebih daripada satu bidang?"
+  },
+  "cathelpcopy": {
+    "en": "Choose the category closest to your main research contribution. Contact the organisers if you need advice on suitability.",
+    "bm": "Pilih kategori yang paling hampir dengan sumbangan utama kajian anda. Hubungi penganjur jika anda memerlukan panduan tentang kesesuaian kategori."
+  },
+  "catcontact": {
+    "en": "Ask the organisers",
+    "bm": "Hubungi penganjur"
+  },
+  "catdates": {
+    "en": "Abstract submission: 1 November–31 December 2026",
+    "bm": "Penghantaran abstrak: 1 November–31 Disember 2026"
+  },
+  "catpending": {
+    "en": "Submission forms, templates and detailed author instructions will be added once confirmed by the organisers.",
+    "bm": "Borang penghantaran, template dan arahan terperinci penulis akan ditambah selepas disahkan oleh penganjur."
+  },
+  "cat1title": {
+    "en": "Engineering & Technology",
+    "bm": "Kejuruteraan & Teknologi"
+  },
+  "cat1desc": {
+    "en": "Applied engineering, manufacturing processes and technical innovation.",
+    "bm": "Kejuruteraan gunaan, proses pembuatan dan inovasi teknikal."
+  },
+  "cat1topics": {
+    "en": "Automation · Materials · Product development",
+    "bm": "Automasi · Bahan · Pembangunan produk"
+  },
+  "cat2title": {
+    "en": "Education & TVET",
+    "bm": "Pendidikan & TVET"
+  },
+  "cat2desc": {
+    "en": "Teaching, learning, assessment and skills development in TVET.",
+    "bm": "Pengajaran, pembelajaran, pentaksiran dan pembangunan kemahiran TVET."
+  },
+  "cat2topics": {
+    "en": "Digital pedagogy · Competency assessment · Industry-linked learning",
+    "bm": "Pedagogi digital · Pentaksiran kompetensi · Pembelajaran bersama industri"
+  },
+  "cat3title": {
+    "en": "ICT & Media",
+    "bm": "ICT & Media"
+  },
+  "cat3desc": {
+    "en": "Digital systems, information technologies and media applications.",
+    "bm": "Sistem digital, teknologi maklumat dan aplikasi media."
+  },
+  "cat3topics": {
+    "en": "Software development · AI applications · Digital communication",
+    "bm": "Pembangunan perisian · Aplikasi AI · Komunikasi digital"
+  },
+  "cat4title": {
+    "en": "Business & Management",
+    "bm": "Perniagaan & Pengurusan"
+  },
+  "cat4desc": {
+    "en": "Entrepreneurship, organisational practices and business development.",
+    "bm": "Keusahawanan, amalan organisasi dan pembangunan perniagaan."
+  },
+  "cat4topics": {
+    "en": "Entrepreneurship · Operations · Marketing",
+    "bm": "Keusahawanan · Operasi · Pemasaran"
+  },
+  "cat5title": {
+    "en": "Environmental Science",
+    "bm": "Sains Alam Sekitar"
+  },
+  "cat5desc": {
+    "en": "Environmental quality, resource management and sustainability.",
+    "bm": "Kualiti alam sekitar, pengurusan sumber dan kemampanan."
+  },
+  "cat5topics": {
+    "en": "Waste management · Green technologies · Resource efficiency",
+    "bm": "Pengurusan sisa · Teknologi hijau · Kecekapan sumber"
+  },
+  "cat6title": {
+    "en": "Tourism & Hospitality",
+    "bm": "Pelancongan & Hospitaliti"
+  },
+  "cat6desc": {
+    "en": "Tourism development, hospitality practice and service experiences.",
+    "bm": "Pembangunan pelancongan, amalan hospitaliti dan pengalaman perkhidmatan."
+  },
+  "cat6topics": {
+    "en": "Sustainable tourism · Service quality · Hospitality operations",
+    "bm": "Pelancongan mampan · Kualiti perkhidmatan · Operasi hospitaliti"
+  },
+  "cat7title": {
+    "en": "Social Science",
+    "bm": "Sains Sosial"
+  },
+  "cat7desc": {
+    "en": "People, communities and social development across diverse contexts.",
+    "bm": "Manusia, komuniti dan pembangunan sosial dalam pelbagai konteks."
+  },
+  "cat7topics": {
+    "en": "Community development · Communication · Workplace studies",
+    "bm": "Pembangunan komuniti · Komunikasi · Kajian tempat kerja"
   }
 };
