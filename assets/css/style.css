@@ -197,3 +197,25 @@
 .fees-page .copy-account{border-color:#a879c9;color:#6322a0}
 .fees-page .copy-feedback:empty{display:none}
 @media(max-width:600px){.fees-page .fee-panel{padding:26px}.fees-page .account-emphasis{padding:15px}.fees-page .account-emphasis>strong{font-size:24px}.fees-page .copy-account{width:100%}.fees-page .fee-row{gap:12px}.fees-page .fee-row>span{font-size:17px}}
+
+/* Unified header and page heroes — October 2026. */
+.site-header .nav-inner{gap:20px}
+.site-header .main-nav{align-items:center;gap:18px}
+.site-header .main-nav a{display:flex;align-items:center;min-height:44px;line-height:1.35}
+.site-header .language-switch button{min-width:44px;min-height:44px;font-size:13px}
+.site-header .nav-register{background:#8133c4;color:#fff;border-radius:12px;white-space:nowrap}
+.site-header .nav-register:hover{background:#67249f}
+main>section.has-explicit-hero{display:flex;align-items:center;min-height:440px;padding:64px 0;background:#38205b;border:0}
+main>section.has-explicit-hero:after{content:'';position:absolute;inset:0;z-index:1;pointer-events:none;background:linear-gradient(90deg,rgba(40,20,64,.94) 0%,rgba(56,32,91,.83) 43%,rgba(56,32,91,.36) 74%,rgba(40,20,64,.22) 100%)}
+main>section.has-explicit-hero>.page-hero-image{object-position:center;object-fit:cover}
+main>section.has-explicit-hero>.container{display:flex;flex-direction:column;align-items:flex-start;gap:20px}
+main>section.has-explicit-hero .hero-section-label{display:flex;align-items:center;gap:14px;margin:0;color:#f0dfff;font-size:14px;font-weight:750;letter-spacing:.12em;line-height:1.4;text-transform:uppercase}
+main>section.has-explicit-hero .hero-section-label>.icon{width:46px;height:46px;padding:10px;border:1px solid #ffffff4d;border-radius:14px;background:#ffffff14;color:#fff}
+main>section.has-explicit-hero h1{font:800 clamp(40px,4.4vw,60px)/1.12 'Segoe UI',Arial,sans-serif;letter-spacing:-.035em;max-width:760px;margin:0;color:#fff;text-wrap:balance}
+main>section.has-explicit-hero p:not(.eyebrow){font-size:20px;line-height:1.65;max-width:660px;margin:0;color:#f1eaf8}
+main>section.has-explicit-hero .about-theme{font-size:14px;line-height:1.5;padding:8px 14px;border:1px solid #ffffff44;border-radius:10px;background:#ffffff10;color:#f1eaf8;margin:0}
+.hero{padding:72px 0 100px}
+.hero:before{background:linear-gradient(90deg,rgba(40,20,64,.94),rgba(56,32,91,.83) 43%,rgba(56,32,91,.36) 74%,rgba(40,20,64,.22))}
+@media(max-width:1200px){.site-header .main-nav{display:none;position:absolute;top:100%;left:0;right:0;padding:16px 24px;background:#fff;border-bottom:1px solid var(--line);grid-template-columns:1fr 1fr;gap:0}.site-header .main-nav.is-open{display:grid}.site-header .main-nav a{padding:12px}.site-header .menu-toggle{display:flex;align-items:center;justify-content:center;gap:6px;min-height:44px}}
+@media(max-width:700px){main>section.has-explicit-hero{min-height:400px;padding:48px 0}main>section.has-explicit-hero>.container{gap:18px}main>section.has-explicit-hero:after{background:linear-gradient(90deg,rgba(40,20,64,.93),rgba(56,32,91,.79) 60%,rgba(40,20,64,.54))}main>section.has-explicit-hero>.page-hero-image{object-position:60% center}main>section.has-explicit-hero h1{font-size:clamp(32px,7.5vw,44px);max-width:100%}main>section.has-explicit-hero p:not(.eyebrow){font-size:18px;line-height:1.6}main>section.has-explicit-hero .hero-section-label{font-size:12px;letter-spacing:.09em;gap:12px}main>section.has-explicit-hero .hero-section-label>.icon{width:44px;height:44px}main>section.has-explicit-hero .about-theme{font-size:13px}.site-header .utility-inner{gap:8px}.site-header .nav-inner{gap:10px}.site-header .language-switch{gap:0}.hero{padding:88px 0 72px}.hero:before{background:linear-gradient(180deg,#28144066,#38205bde 38%,#281440f5)} }
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.site-header a{transition:none}}
