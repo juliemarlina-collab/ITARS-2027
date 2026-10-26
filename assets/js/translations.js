@@ -616,8 +616,8 @@ window.ITARS_TRANSLATIONS = {
     "bm": "Penghantaran abstrak: 1 November–31 Disember 2026"
   },
   "catpending": {
-    "en": "Submission forms, templates and detailed author instructions will be added once confirmed by the organisers.",
-    "bm": "Borang penghantaran, template dan arahan terperinci penulis akan ditambah selepas disahkan oleh penganjur."
+    "en": "Registration and payment information is available on the Fees page. Author templates and detailed instructions await confirmation.",
+    "bm": "Maklumat pendaftaran dan pembayaran tersedia di halaman Yuran. Template penulis dan arahan terperinci menunggu pengesahan."
   },
   "cat1title": {
     "en": "Engineering & Technology",
@@ -748,8 +748,8 @@ window.ITARS_TRANSLATIONS = {
     "bm": "Sebelum mendaftar"
   },
   "feehowcopy": {
-    "en": "Prepare your participation details. The official registration form and payment instructions will be added after organiser confirmation.",
-    "bm": "Sediakan maklumat penyertaan anda. Borang pendaftaran rasmi dan arahan pembayaran akan ditambah selepas pengesahan penganjur."
+    "en": "Review your category, prepare your details and follow the payment instructions below. Confirm the CMT conference identifier with the organisers before proceeding.",
+    "bm": "Semak kategori, sediakan maklumat dan ikuti arahan pembayaran di bawah. Sahkan pengenal persidangan CMT dengan penganjur sebelum meneruskan."
   },
   "feestep1": {
     "en": "Choose your category",
@@ -772,12 +772,12 @@ window.ITARS_TRANSLATIONS = {
     "bm": "Ikuti arahan rasmi"
   },
   "feestep3copy": {
-    "en": "Wait for the confirmed registration link and payment guidance from the organisers.",
-    "bm": "Gunakan pautan pendaftaran dan panduan pembayaran yang disahkan oleh penganjur."
+    "en": "Use the payment details below and upload the receipt to the organiser-confirmed CMT conference.",
+    "bm": "Gunakan butiran pembayaran di bawah dan muat naik resit ke persidangan CMT yang disahkan penganjur."
   },
   "feepending": {
-    "en": "Registration form and payment details: awaiting confirmation.",
-    "bm": "Borang pendaftaran dan butiran pembayaran: menunggu pengesahan."
+    "en": "Payment instructions are available below. The supplied CMT conference identifier still requires confirmation.",
+    "bm": "Arahan pembayaran tersedia di bawah. Pengenal persidangan CMT yang diberikan masih memerlukan pengesahan."
   },
   "askfees": {
     "en": "Enquire about registration",
@@ -960,8 +960,8 @@ window.ITARS_TRANSLATIONS = {
     "bm": "Portal penghantaran menunggu pengesahan"
   },
   "submissioncopy": {
-    "en": "The official upload link, abstract format, manuscript template and review instructions have not yet been provided. No submission is collected on this website at present.",
-    "bm": "Pautan muat naik rasmi, format abstrak, template manuskrip dan arahan penilaian belum diberikan. Website ini belum menerima penghantaran pada masa ini."
+    "en": "A CMT portal and registration video have been supplied; its URL currently identifies ITARS2026 and requires confirmation for ITARS2027. Abstract format and manuscript templates are still awaiting organiser confirmation.",
+    "bm": "Portal CMT dan video pendaftaran telah diberikan; URL kini merujuk ITARS2026 dan memerlukan pengesahan untuk ITARS2027. Format abstrak dan template manuskrip masih menunggu pengesahan penganjur."
   },
   "submissionprepare": {
     "en": "What you can prepare now",
@@ -986,5 +986,77 @@ window.ITARS_TRANSLATIONS = {
   "regpendingbutton": {
     "en": "Registration information",
     "bm": "Maklumat pendaftaran"
+  },
+  "paymenttitle": {
+    "en": "Payment instructions",
+    "bm": "Arahan pembayaran"
+  },
+  "paymentintro": {
+    "en": "Registration is confirmed only after full payment. All registration fees must be received on the registration date.",
+    "bm": "Pendaftaran hanya disahkan selepas bayaran penuh diterima. Semua yuran pendaftaran mesti diterima pada tarikh pendaftaran."
+  },
+  "banklabel": {
+    "en": "Bank transfer details",
+    "bm": "Butiran pindahan bank"
+  },
+  "accountname": {
+    "en": "Account name",
+    "bm": "Nama akaun"
+  },
+  "accountnumber": {
+    "en": "Account number",
+    "bm": "Nombor akaun"
+  },
+  "bankname": {
+    "en": "Bank",
+    "bm": "Bank"
+  },
+  "swift": {
+    "en": "SWIFT code",
+    "bm": "Kod SWIFT"
+  },
+  "bankaddress": {
+    "en": "Bank address",
+    "bm": "Alamat bank"
+  },
+  "paymentproof": {
+    "en": "Proof of payment",
+    "bm": "Bukti pembayaran"
+  },
+  "paymentproofcopy": {
+    "en": "Upload your proof of payment to the CMT system. Name the file using your Paper ID followed by _ITARS2027.",
+    "bm": "Muat naik bukti pembayaran ke sistem CMT. Namakan fail menggunakan Paper ID anda diikuti dengan _ITARS2027."
+  },
+  "charges": {
+    "en": "All remittance charges, including foreign bank charges, must be borne by the registrant.",
+    "bm": "Semua caj kiriman wang, termasuk caj bank asing, ditanggung oleh pendaftar."
+  },
+  "refund": {
+    "en": "Paid registration fees are non-refundable if you are unable to participate in the symposium.",
+    "bm": "Yuran pendaftaran yang telah dibayar tidak akan dikembalikan sekiranya anda tidak dapat menyertai simposium."
+  },
+  "cmtregister": {
+    "en": "Registration through Microsoft CMT",
+    "bm": "Pendaftaran melalui Microsoft CMT"
+  },
+  "cmtwarning": {
+    "en": "The supplied CMT link currently points to ITARS2026. Confirmation that this portal will be used for ITARS2027 is pending. Please verify with the organisers before submitting information or making payment.",
+    "bm": "Pautan CMT yang diberikan kini menghala ke ITARS2026. Penggunaan portal ini untuk ITARS2027 masih menunggu pengesahan. Sila sahkan dengan penganjur sebelum menghantar maklumat atau membuat pembayaran."
+  },
+  "cmtlink": {
+    "en": "View supplied CMT portal",
+    "bm": "Lihat portal CMT yang diberikan"
+  },
+  "cmtvideo": {
+    "en": "Watch registration instructions",
+    "bm": "Tonton panduan pendaftaran"
+  },
+  "cmtcredit": {
+    "en": "Microsoft CMT acknowledgement",
+    "bm": "Penghargaan Microsoft CMT"
+  },
+  "cmtcreditcopy": {
+    "en": "The Microsoft CMT service was used for managing the peer-reviewing process for this conference. This service was provided for free by Microsoft and they bore all expenses, including costs for Azure cloud services as well as for software development and support.",
+    "bm": "Perkhidmatan Microsoft CMT digunakan untuk mengurus proses penilaian rakan sebaya bagi persidangan ini. Perkhidmatan ini disediakan secara percuma oleh Microsoft yang menanggung semua perbelanjaan, termasuk kos perkhidmatan awan Azure serta pembangunan dan sokongan perisian."
   }
 };

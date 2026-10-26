@@ -155,3 +155,5 @@
 .has-explicit-hero:after{z-index:1!important;pointer-events:none}
 .has-explicit-hero>.container{position:relative;z-index:2}
 @media(max-width:700px){.has-explicit-hero>.page-hero-image{object-position:60% center}}
+
+.payment-panel{padding:30px;background:#fff;border:1px solid #e6d9ee;border-radius:20px;margin:28px 0}.payment-panel dl{display:grid;grid-template-columns:180px 1fr;gap:18px;margin:25px 0 0}.payment-panel dt{font-weight:700;color:#71319f}.payment-panel dd{margin:0;overflow-wrap:anywhere}.profile-note code{display:inline-block;background:#eee1f8;padding:10px 16px;border-radius:8px;font-size:18px;color:#38205b}@media(max-width:600px){.payment-panel{padding:24px}.payment-panel dl{grid-template-columns:1fr;gap:8px}.payment-panel dd{margin-bottom:15px}}
