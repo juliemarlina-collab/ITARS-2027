@@ -748,8 +748,8 @@ window.ITARS_TRANSLATIONS = {
     "bm": "Sebelum mendaftar"
   },
   "feehowcopy": {
-    "en": "Review your category, prepare your details and follow the payment instructions below. Confirm the CMT conference identifier with the organisers before proceeding.",
-    "bm": "Semak kategori, sediakan maklumat dan ikuti arahan pembayaran di bawah. Sahkan pengenal persidangan CMT dengan penganjur sebelum meneruskan."
+    "en": "Choose your category, register through Microsoft CMT and upload your payment proof.",
+    "bm": "Pilih kategori, daftar melalui Microsoft CMT dan muat naik bukti pembayaran."
   },
   "feestep1": {
     "en": "Choose your category",
@@ -768,12 +768,12 @@ window.ITARS_TRANSLATIONS = {
     "bm": "Sediakan nama, institusi dan maklumat hubungan. Pembentang juga perlu menyediakan maklumat kertas kajian."
   },
   "feestep3": {
-    "en": "Follow official instructions",
-    "bm": "Ikuti arahan rasmi"
+    "en": "Register & upload payment proof",
+    "bm": "Daftar & muat naik bukti pembayaran"
   },
   "feestep3copy": {
-    "en": "Use the payment details below and upload the receipt to the organiser-confirmed CMT conference.",
-    "bm": "Gunakan butiran pembayaran di bawah dan muat naik resit ke persidangan CMT yang disahkan penganjur."
+    "en": "Use the CMT portal, complete payment and upload the receipt as Paper ID_ITARS2027. Registration is confirmed after full payment.",
+    "bm": "Gunakan portal CMT, lengkapkan pembayaran dan muat naik resit sebagai Paper ID_ITARS2027. Pendaftaran disahkan selepas bayaran penuh."
   },
   "feepending": {
     "en": "Payment instructions are available below. The supplied CMT conference identifier still requires confirmation.",
@@ -1710,5 +1710,25 @@ window.ITARS_TRANSLATIONS = {
   "v7d": {
     "en": "1–31 May 2027",
     "bm": "1–31 Mei 2027"
+  },
+  "copyaccount": {
+    "en": "Copy account number",
+    "bm": "Salin nombor akaun"
+  },
+  "accountcopied": {
+    "en": "Account number copied",
+    "bm": "Nombor akaun disalin"
+  },
+  "copyfallback": {
+    "en": "Select and copy the account number above.",
+    "bm": "Pilih dan salin nombor akaun di atas."
+  },
+  "feespaylink": {
+    "en": "View payment details",
+    "bm": "Lihat butiran pembayaran"
+  },
+  "feesready": {
+    "en": "Ready to join ITARS 2027?",
+    "bm": "Bersedia menyertai ITARS 2027?"
   }
 };
