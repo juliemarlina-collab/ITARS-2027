@@ -1598,5 +1598,17 @@ window.ITARS_TRANSLATIONS = {
   "navauthors": {
     "en": "Author Guidelines",
     "bm": "Panduan Penulis"
+  },
+  "previouseditions": {
+    "en": "Previous Editions",
+    "bm": "Edisi Terdahulu"
+  },
+  "previousintro": {
+    "en": "Explore the websites of previous ITARS editions and revisit our symposium journey.",
+    "bm": "Terokai laman web edisi ITARS terdahulu dan imbas kembali perjalanan simposium kami."
+  },
+  "visitedition": {
+    "en": "Visit website",
+    "bm": "Lawati laman web"
   }
 };
