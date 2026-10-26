@@ -1610,5 +1610,105 @@ window.ITARS_TRANSLATIONS = {
   "visitedition": {
     "en": "Visit website",
     "bm": "Lawati laman web"
+  },
+  "visualtitle": {
+    "en": "Your paper. Seven clear steps.",
+    "bm": "Kertas anda. Tujuh langkah mudah."
+  },
+  "visuallead": {
+    "en": "A quick guide from abstract to publication. Open the full requirements below when preparing your submission.",
+    "bm": "Panduan ringkas daripada abstrak hingga penerbitan. Buka syarat lengkap di bawah semasa menyediakan penghantaran."
+  },
+  "fullrequirements": {
+    "en": "View full author requirements",
+    "bm": "Lihat syarat lengkap penulis"
+  },
+  "visualregister": {
+    "en": "Register / submit via CMT",
+    "bm": "Daftar / hantar melalui CMT"
+  },
+  "v1": {
+    "en": "Submit abstract",
+    "bm": "Hantar abstrak"
+  },
+  "v1c": {
+    "en": "250–300 words · English · 3–5 keywords",
+    "bm": "250–300 patah perkataan · Bahasa Inggeris · 3–5 kata kunci"
+  },
+  "v1d": {
+    "en": "1 Nov–31 Dec 2026",
+    "bm": "1 Nov–31 Dis 2026"
+  },
+  "v2": {
+    "en": "Prepare full paper",
+    "bm": "Sediakan kertas penuh"
+  },
+  "v2c": {
+    "en": "6–10 pages · TNR 11 · APA 7 · Official Word template",
+    "bm": "6–10 halaman · TNR 11 · APA 7 · Template Word rasmi"
+  },
+  "v2d": {
+    "en": "After abstract acceptance",
+    "bm": "Selepas abstrak diterima"
+  },
+  "v3": {
+    "en": "Upload & pay",
+    "bm": "Muat naik & bayar"
+  },
+  "v3c": {
+    "en": "Upload your DOCX and payment proof through CMT",
+    "bm": "Muat naik DOCX dan bukti pembayaran melalui CMT"
+  },
+  "v3d": {
+    "en": "16 Jan–15 Feb 2027",
+    "bm": "16 Jan–15 Feb 2027"
+  },
+  "v4": {
+    "en": "Review & revise",
+    "bm": "Semak & baiki"
+  },
+  "v4c": {
+    "en": "Double-blind · At least 2 reviewers · Similarity ≤20%",
+    "bm": "Double-blind · Sekurang-kurangnya 2 penyemak · Kesamaan ≤20%"
+  },
+  "v4d": {
+    "en": "Address reviewer feedback",
+    "bm": "Penuhi ulasan penyemak"
+  },
+  "v5": {
+    "en": "Final camera-ready",
+    "bm": "Versi akhir camera-ready"
+  },
+  "v5c": {
+    "en": "Submit your revised final manuscript",
+    "bm": "Hantar manuskrip akhir yang telah dibaiki"
+  },
+  "v5d": {
+    "en": "By 5 Apr 2027",
+    "bm": "Selewat-lewatnya 5 Apr 2027"
+  },
+  "v6": {
+    "en": "Present online",
+    "bm": "Bentang dalam talian"
+  },
+  "v6c": {
+    "en": "English · 15 min presentation + 5 min Q&A",
+    "bm": "Bahasa Inggeris · Pembentangan 15 min + soal jawab 5 min"
+  },
+  "v6d": {
+    "en": "8 Apr 2027",
+    "bm": "8 Apr 2027"
+  },
+  "v7": {
+    "en": "Publication",
+    "bm": "Penerbitan"
+  },
+  "v7c": {
+    "en": "Accepted & presented papers → ISBN proceedings",
+    "bm": "Kertas diterima & dibentangkan → prosiding ISBN"
+  },
+  "v7d": {
+    "en": "1–31 May 2027",
+    "bm": "1–31 Mei 2027"
   }
 };
