@@ -1416,8 +1416,8 @@ window.ITARS_TRANSLATIONS = {
     "bm": "Muat turun template kertas penuh · DOCX"
   },
   "ppttemplate": {
-    "en": "Open PowerPoint template",
-    "bm": "Buka template PowerPoint"
+    "en": "Download presentation template · PPTX",
+    "bm": "Muat turun template pembentangan · PPTX"
   },
   "canvatemplate": {
     "en": "Open Canva template",
