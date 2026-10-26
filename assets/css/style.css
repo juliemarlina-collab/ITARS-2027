@@ -166,3 +166,6 @@
 .submission-steps{display:grid;gap:1.25rem;max-width:960px}.submission-steps .author-card{border-left:5px solid #8b36d9}.submission-steps p{line-height:1.8}
 
 @media(min-width:1051px){.main-nav{gap:clamp(8px,1.2vw,20px);flex-wrap:wrap;row-gap:8px}.main-nav a{white-space:nowrap}}
+
+/* Shared inner-page hero: omit repeated breadcrumb navigation. */
+.inner-page .page-breadcrumb{display:none!important}.inner-page main>section:first-child .hero-section-label{display:flex;align-items:center;gap:12px;margin-bottom:22px}.inner-page main>section:first-child .hero-section-label .icon{width:28px;height:28px}
