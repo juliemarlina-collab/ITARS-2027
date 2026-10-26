@@ -169,3 +169,6 @@
 
 /* Shared inner-page hero: omit repeated breadcrumb navigation. */
 .inner-page .page-breadcrumb{display:none!important}.inner-page main>section:first-child .hero-section-label{display:flex;align-items:center;gap:12px;margin-bottom:22px}.inner-page main>section:first-child .hero-section-label .icon{width:28px;height:28px}
+
+/* Previous symposium editions */
+.edition-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px;margin-top:30px}.edition-card{display:block;padding:30px;border:1px solid #e7deef;border-top:4px solid #a333f2;border-radius:18px;background:#fff;box-shadow:0 8px 25px #38205b08;transition:transform .2s,box-shadow .2s}.edition-card:nth-child(2){border-top-color:#009b95}.edition-card:nth-child(3){border-top-color:#a5c837}.edition-card:hover{transform:translateY(-4px);box-shadow:0 12px 30px #38205b15}.edition-card>.icon{color:#71319f;margin-bottom:20px}.edition-card h3{font-size:30px;margin-bottom:20px;color:#38205b}.edition-card span{font-size:17px;font-weight:650;color:#71319f}@media(max-width:700px){.edition-grid{grid-template-columns:1fr}.edition-card{padding:25px}}
